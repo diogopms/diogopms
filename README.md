@@ -2,7 +2,7 @@
 
 I'm a Software/DevOps Engineer at Genesis Cloud.
 
-[![Diogo's github stats](https://github-readme-stats.vercel.app/api?username=diogopms)]
+https://github-readme-stats.vercel.app/api?username=diogopms
 
 <!--
 Here are some ideas to get you started:
