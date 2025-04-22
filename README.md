@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software/DevOps Engineer at Genesis Cloud.
+I'm a Software/DevOps Engineer
 
 <!--
 Here are some ideas to get you started:
