@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 I'm **Diogo Serrano** — Senior Technical Product Manager & Full Stack Engineer based in Lisbon 🇵🇹
 
 Product thinking, engineering hands. I like the rare seat where the person deciding *what* to build is also comfortable *building* it.
@@ -9,14 +8,10 @@ Product thinking, engineering hands. I like the rare seat where the person decid
 - 🧾 **Open source** — [Easy PT Invoice](https://github.com/diogopms), a backend-free Portuguese-invoice scanner (React + Vite · Capacitor · WebRTC)
 - 🌱 **Levelling up** computer vision / ML and low-latency systems
 - ☸️ **CKA + CKAD certified** — Kubernetes & GitOps in production, not just slides
-- 🏃 **Fun fact** — just finished my first half marathon
 
 #### 🛠️ What I reach for
-
 **Product** — Strategy · Roadmapping & Prioritisation · Discovery & User Research · Data & Experimentation · Stakeholder Leadership
-
 **Engineering** — React / TypeScript · Node & Go · Kubernetes & GitOps · GCP / AWS · CI/CD · Computer Vision / ML
 
 #### 📫 Reach me
-
 [Website](https://diogoserrano.com) · [LinkedIn](https://www.linkedin.com/in/diogoserrano/) · [GitHub](https://github.com/diogopms)
